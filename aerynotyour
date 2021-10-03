@@ -1,7 +1,8 @@
-<?php
-if(kondisi){
-    //jika kondisi dipenuhi
+<?php 
+$teman = "andi";
+if($teman == "andi"){
+	echo "dia adalah teman saya";
 }else{
-    //jika kondisi tidak dipenuhi
+	echo "dia bukan teman saya";
 }
 ?>
