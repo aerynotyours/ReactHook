@@ -1,7 +1,7 @@
 <?php
 if(kondisi){
-    //jika kondisi terpenuhi
+    //jika kondisi dipenuhi
 }else{
-    //jika kondisi tidak terpenuhi
+    //jika kondisi tidak dipenuhi
 }
 ?>
