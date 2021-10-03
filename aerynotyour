@@ -1,6 +1,6 @@
 <?php 
-$teman = "andi";
-if($teman == "andi"){
+$teman = "agus";
+if($teman == "agus"){
 	echo "dia adalah teman saya";
 }else{
 	echo "dia bukan teman saya";
